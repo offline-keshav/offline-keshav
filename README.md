@@ -1,3 +1,7 @@
+Here's your README content updated to use a dark mode theme:
+
+---
+
 ## Hi there 👋 I'm Keshav Kushwaha
 
 You can find me here:  
@@ -44,4 +48,21 @@ Developed a robust pipeline to extract text from images using **EasyOCR**, achie
 
 ![Profile views](https://komarev.com/ghpvc/?username=offline-keshav&color=blue&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offline-keshav&layout=compact&hide=Jupyter%20Notebook)](https://github.com/offline-keshav/github-readme-stats) [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=offline-keshav&show_icons=true&theme=radical)](https://github.com/offline-keshav/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=offline-keshav&theme=radical)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offline-keshav&layout=compact&hide=Jupyter%20Notebook&theme=default)](https://github.com/offline-keshav/github-readme-stats)
+
+
+
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=offline-keshav&show_icons=true&theme=default)](https://github.com/offline-keshav/github-readme-stats) 
+
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=offline-keshav&theme=deafult)](https://git.io/streak-stats)
+
+---
+
+Feel free to make any further adjustments!
