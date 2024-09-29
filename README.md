@@ -1,7 +1,3 @@
-Here's your README content updated to use a dark mode theme:
-
----
-
 ## Hi there 👋 I'm Keshav Kushwaha
 
 You can find me here:  
@@ -62,7 +58,3 @@ Developed a robust pipeline to extract text from images using **EasyOCR**, achie
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=offline-keshav&theme=deafult)](https://git.io/streak-stats)
-
----
-
-Feel free to make any further adjustments!
