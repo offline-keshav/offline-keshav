@@ -7,7 +7,7 @@ You can find me here:
 
 ## About Me
 
-Hi, I am Keshav, a final-year undergraduate student currently pursuing a **B.Tech. in Information Technology (GeoInformatics)** from **Netaji Subhas University of Technology**, New Delhi.
+Hi, I am Keshav, a final-year undergraduate student currently pursuing a **B.Tech. in Geoinformatics (Information Technology)** from **Netaji Subhas University of Technology**, New Delhi.
 
 - 🔭 I’m working on projects involving **Machine Learning** and **Data Structures & Algorithms**.
 - 🌱 I’m passionate about technology and enjoy learning new things in areas such as **AI**, **Data Science**, and **Geospatial Data**.
